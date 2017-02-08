@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Roof Party"
-date: 2016-09-08
+title: "Oxford island reserve"
+date: 2016-03-05
 categories:
-  - Juice
+  - Travel
 description: 
-image: https://unsplash.it/2000/1200?image=16
-image-sm: https://unsplash.it/500/300?image=16
+image: /assets/images/posts/PhotoSoc_QxfordIsland_1_opt.jpg
+image-sm: /assets/images/posts/PhotoSoc_QxfordIsland_1_opt.jpg
 comments: true
 published: false
 ---
