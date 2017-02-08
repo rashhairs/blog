@@ -5,8 +5,8 @@ date: 2016-12-22
 categories: 
   - Travel 
 description: 
-image: https://unsplash.it/2000/1200?image=674
-image-sm: https://unsplash.it/500/300?image=674
+image: /assets/images/posts/2016-12-22-pulicat/pulicatBeachedited.jpg
+image-sm: /assets/images/posts/2016-12-22-pulicat/pulicatBeachedited.jpg
 comments: true
 published: true
 
