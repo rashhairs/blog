@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Craft Beer"
-date: 2016-09-07
+title: "Hierarchy of investments"
+date: 2017-02-12
 categories:
-  - Juice
+  - Investments
 description: 
 image: https://unsplash.it/2000/1200?image=1003
 image-sm: https://unsplash.it/500/300?image=1003
