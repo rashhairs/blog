@@ -417,6 +417,7 @@
      @include box-shadow(2px);
 
      display: flex;
+     font-family: $font-body;
      flex-direction: column;
 		 margin: 0 auto;
 		 padding: 2em;
