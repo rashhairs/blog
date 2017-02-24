@@ -84,7 +84,7 @@
   &__img {
     will-change: opacity;
     animation: fade-in 1s both;
-    filter: grayscale(10%) blur(1px) opacity(0.1);
+    filter: grayscale(0%) blur(0px) opacity(0);
   }
 
   &__link {
