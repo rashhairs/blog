@@ -1,12 +1,12 @@
 # Site settings
 email: sriharsha.sheshn@gmail.com
-baseurl: "rashhairs.github.io/"
+baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics:
 
 # SEO settings
-title: Thoughts penned
+title: Blog
 description: Blog of sriharsha sheshanarayana
 url: "https://sriharsha.space"
 twitter_username: sriharshasheshn
